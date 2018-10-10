@@ -127,7 +127,7 @@
     "Population": "2,913,123",
     "Total_Area": "82,278"
 }, {
-    "Name": "Kentucky[E]",
+    "Name": "Kentucky",
     "State": "KY",
     "Capital": "Frankfort",
     "Largest": "Louisville",
@@ -159,7 +159,7 @@
     "Population": "6,052,177",
     "Total_Area": "12,406"
 }, {
-    "Name": "Massachusetts[E]",
+    "Name": "Massachusetts",
     "State": "MA",
     "Capital": "Boston",
     "Largest": "Boston",
@@ -295,7 +295,7 @@
     "Population": "4,142,776",
     "Total_Area": "98,379"
 }, {
-    "Name": "Pennsylvania[E]",
+    "Name": "Pennsylvania",
     "State": "PA",
     "Capital": "Harrisburg",
     "Largest": "Philadelphia",
@@ -359,7 +359,7 @@
     "Population": "623,657",
     "Total_Area": "9,616"
 }, {
-    "Name": "Virginia[E]",
+    "Name": "Virginia",
     "State": "VA",
     "Capital": "Richmond",
     "Largest": "Virginia Beach",
