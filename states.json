@@ -6,7 +6,8 @@
             "Largest": "Birmingham",
             "Statehood": "Dec 14, 1819",
             "Population": "4,874,747",
-            "Total_Area": "52,420"
+            "Total_Area": "52,420",
+            "AppFriendlyName": "alabama"
         }, {
             "Name": "Alaska",
             "State": "AK",
@@ -14,7 +15,8 @@
             "Largest": "Anchorage",
             "Statehood": "Jan 3, 1959",
             "Population": "739,795",
-            "Total_Area": "665,384"
+            "Total_Area": "665,384",
+            "AppFriendlyName": "alaska"
         }, {
             "Name": "Arizona",
             "State": "AZ",
@@ -22,7 +24,8 @@
             "Largest": "Phoenix",
             "Statehood": "Feb 14, 1912",
             "Population": "7,016,270",
-            "Total_Area": "113,990"
+            "Total_Area": "113,990",
+            "AppFriendlyName": "alabama"
         }, {
             "Name": "Arkansas",
             "State": "AR",
@@ -30,7 +33,8 @@
             "Largest": "Little Rock",
             "Statehood": "Jun 15, 1836",
             "Population": "3,004,279",
-            "Total_Area": "53,179"
+            "Total_Area": "53,179",
+            "AppFriendlyName": "arkansas"
         }, {
             "Name": "California",
             "State": "CA",
@@ -38,7 +42,8 @@
             "Largest": "Los Angeles",
             "Statehood": "Sep 9, 1850",
             "Population": "39,536,653",
-            "Total_Area": "163,695"
+            "Total_Area": "163,695",
+            "AppFriendlyName": "california"
         }, {
             "Name": "Colorado",
             "State": "CO",
@@ -46,7 +51,8 @@
             "Largest": "Denver",
             "Statehood": "Aug 1, 1876",
             "Population": "5,607,154",
-            "Total_Area": "104,094"
+            "Total_Area": "104,094",
+            "AppFriendlyName": "colorado"
         }, {
             "Name": "Connecticut",
             "State": "CT",
@@ -54,7 +60,8 @@
             "Largest": "Bridgeport",
             "Statehood": "Jan 9, 1788",
             "Population": "3,588,184",
-            "Total_Area": "5,543"
+            "Total_Area": "5,543",
+            "AppFriendlyName": "connecticut"
         }, {
             "Name": "Delaware",
             "State": "DE",
@@ -62,7 +69,8 @@
             "Largest": "Wilmington",
             "Statehood": "Dec 7, 1787",
             "Population": "961,939",
-            "Total_Area": "2,489"
+            "Total_Area": "2,489",
+            "AppFriendlyName": "delaware"
         }, {
             "Name": "Florida",
             "State": "FL",
@@ -70,7 +78,8 @@
             "Largest": "Jacksonville",
             "Statehood": "Mar 3, 1845",
             "Population": "20,984,400",
-            "Total_Area": "65,758"
+            "Total_Area": "65,758",
+            "AppFriendlyName": "florida"
         }, {
             "Name": "Georgia",
             "State": "GA",
@@ -78,7 +87,8 @@
             "Largest": "Atlanta",
             "Statehood": "Jan 2, 1788",
             "Population": "10,429,379",
-            "Total_Area": "59,425"
+            "Total_Area": "59,425",
+            "AppFriendlyName": "georgia"
         }, {
             "Name": "Hawaii",
             "State": "HI",
@@ -86,7 +96,8 @@
             "Largest": "Honolulu",
             "Statehood": "Aug 21, 1959",
             "Population": "1,427,538",
-            "Total_Area": "10,932"
+            "Total_Area": "10,932",
+            "AppFriendlyName": "hawaii"
         }, {
             "Name": "Idaho",
             "State": "ID",
@@ -94,7 +105,8 @@
             "Largest": "Boise",
             "Statehood": "Jul 3, 1890",
             "Population": "1,716,943",
-            "Total_Area": "83,569"
+            "Total_Area": "83,569",
+            "AppFriendlyName": "idaho"
         }, {
             "Name": "Illinois",
             "State": "IL",
@@ -102,7 +114,8 @@
             "Largest": "Chicago",
             "Statehood": "Dec 3, 1818",
             "Population": "12,802,023",
-            "Total_Area": "57,914"
+            "Total_Area": "57,914",
+            "AppFriendlyName": "illinois"
         }, {
             "Name": "Indiana",
             "State": "IN",
@@ -110,7 +123,8 @@
             "Largest": "Indianapolis",
             "Statehood": "Dec 11, 1816",
             "Population": "6,666,818",
-            "Total_Area": "36,420"
+            "Total_Area": "36,420",
+            "AppFriendlyName": "indiana"
         }, {
             "Name": "Iowa",
             "State": "IA",
@@ -118,7 +132,8 @@
             "Largest": "Des Moines",
             "Statehood": "Dec 28, 1846",
             "Population": "3,145,711",
-            "Total_Area": "56,273"
+            "Total_Area": "56,273",
+            "AppFriendlyName": "iowa"
         }, {
             "Name": "Kansas",
             "State": "KS",
@@ -126,7 +141,8 @@
             "Largest": "Wichita",
             "Statehood": "Jan 29, 1861",
             "Population": "2,913,123",
-            "Total_Area": "82,278"
+            "Total_Area": "82,278",
+            "AppFriendlyName": "kansas"
         }, {
             "Name": "Kentucky",
             "State": "KY",
@@ -134,7 +150,8 @@
             "Largest": "Louisville",
             "Statehood": "Jun 1, 1792",
             "Population": "4,454,189",
-            "Total_Area": "40,408"
+            "Total_Area": "40,408",
+            "AppFriendlyName": "kentucky"
         }, {
             "Name": "Louisiana",
             "State": "LA",
@@ -142,7 +159,8 @@
             "Largest": "New Orleans",
             "Statehood": "Apr 30, 1812",
             "Population": "4,684,333",
-            "Total_Area": "52,378"
+            "Total_Area": "52,378",
+            "AppFriendlyName": "louisiana"
         }, {
             "Name": "Maine",
             "State": "ME",
@@ -150,7 +168,8 @@
             "Largest": "Portland",
             "Statehood": "Mar 15, 1820",
             "Population": "1,335,907",
-            "Total_Area": "35,380"
+            "Total_Area": "35,380",
+            "AppFriendlyName": "maine"
         }, {
             "Name": "Maryland",
             "State": "MD",
@@ -158,7 +177,8 @@
             "Largest": "Baltimore",
             "Statehood": "Apr 28, 1788",
             "Population": "6,052,177",
-            "Total_Area": "12,406"
+            "Total_Area": "12,406",
+            "AppFriendlyName": "maryland"
         }, {
             "Name": "Massachusetts",
             "State": "MA",
@@ -166,7 +186,8 @@
             "Largest": "Boston",
             "Statehood": "Feb 6, 1788",
             "Population": "6,859,819",
-            "Total_Area": "10,554"
+            "Total_Area": "10,554",
+            "AppFriendlyName": "massachusetts"
         }, {
             "Name": "Michigan",
             "State": "MI",
@@ -174,7 +195,8 @@
             "Largest": "Detroit",
             "Statehood": "Jan 26, 1837",
             "Population": "9,962,311",
-            "Total_Area": "96,714"
+            "Total_Area": "96,714",
+            "AppFriendlyName": "michigan"
         }, {
             "Name": "Minnesota",
             "State": "MN",
@@ -182,7 +204,8 @@
             "Largest": "Minneapolis",
             "Statehood": "May 11, 1858",
             "Population": "5,576,606",
-            "Total_Area": "86,936"
+            "Total_Area": "86,936",
+            "AppFriendlyName": "minnesota"
         }, {
             "Name": "Mississippi",
             "State": "MS",
@@ -190,7 +213,8 @@
             "Largest": "Jackson",
             "Statehood": "Dec 10, 1817",
             "Population": "2,984,100",
-            "Total_Area": "48,432"
+            "Total_Area": "48,432",
+            "AppFriendlyName": "mississippi"
         }, {
             "Name": "Missouri",
             "State": "MO",
@@ -198,7 +222,8 @@
             "Largest": "Kansas City",
             "Statehood": "Aug 10, 1821",
             "Population": "6,113,532",
-            "Total_Area": "69,707"
+            "Total_Area": "69,707",
+            "AppFriendlyName": "missouri"
         }, {
             "Name": "Montana",
             "State": "MT",
@@ -206,7 +231,8 @@
             "Largest": "Billings",
             "Statehood": "Nov 8, 1889",
             "Population": "1,050,493",
-            "Total_Area": "147,040"
+            "Total_Area": "147,040",
+            "AppFriendlyName": "montana"
         }, {
             "Name": "Nebraska",
             "State": "NE",
@@ -214,7 +240,8 @@
             "Largest": "Omaha",
             "Statehood": "Mar 1, 1867",
             "Population": "1,920,076",
-            "Total_Area": "77,348"
+            "Total_Area": "77,348",
+            "AppFriendlyName": "nebraska"
         }, {
             "Name": "Nevada",
             "State": "NV",
@@ -222,7 +249,8 @@
             "Largest": "Las Vegas",
             "Statehood": "Oct 31, 1864",
             "Population": "2,998,039",
-            "Total_Area": "110,572"
+            "Total_Area": "110,572",
+            "AppFriendlyName": "nevada"
         }, {
             "Name": "New Hampshire",
             "State": "NH",
@@ -230,7 +258,8 @@
             "Largest": "Manchester",
             "Statehood": "Jun 21, 1788",
             "Population": "1,342,795",
-            "Total_Area": "9,349"
+            "Total_Area": "9,349",
+            "AppFriendlyName": "new-hampshire"
         }, {
             "Name": "New Jersey",
             "State": "NJ",
@@ -238,7 +267,8 @@
             "Largest": "Newark",
             "Statehood": "Dec 18, 1787",
             "Population": "9,005,644",
-            "Total_Area": "8,723"
+            "Total_Area": "8,723",
+            "AppFriendlyName": "new-jersey"
         }, {
             "Name": "New Mexico",
             "State": "NM",
@@ -246,7 +276,8 @@
             "Largest": "Albuquerque",
             "Statehood": "Jan 6, 1912",
             "Population": "2,088,070",
-            "Total_Area": "121,590"
+            "Total_Area": "121,590",
+            "AppFriendlyName": "new-mexico"
         }, {
             "Name": "New York",
             "State": "NY",
@@ -254,7 +285,8 @@
             "Largest": "New York City",
             "Statehood": "Jul 26, 1788",
             "Population": "19,849,399",
-            "Total_Area": "54,555"
+            "Total_Area": "54,555",
+            "AppFriendlyName": "new-york"
         }, {
             "Name": "North Carolina",
             "State": "NC",
@@ -262,7 +294,8 @@
             "Largest": "Charlotte",
             "Statehood": "Nov 21, 1789",
             "Population": "10,273,419",
-            "Total_Area": "53,819"
+            "Total_Area": "53,819",
+            "AppFriendlyName": "north-carolina"
         }, {
             "Name": "North Dakota",
             "State": "ND",
@@ -270,7 +303,8 @@
             "Largest": "Fargo",
             "Statehood": "Nov 2, 1889",
             "Population": "755,393",
-            "Total_Area": "70,698"
+            "Total_Area": "70,698",
+            "AppFriendlyName": "north-dakota"
         }, {
             "Name": "Ohio",
             "State": "OH",
@@ -278,7 +312,8 @@
             "Largest": "Columbus",
             "Statehood": "Mar 1, 1803",
             "Population": "11,658,609",
-            "Total_Area": "44,826"
+            "Total_Area": "44,826",
+            "AppFriendlyName": "ohio"
         }, {
             "Name": "Oklahoma",
             "State": "OK",
@@ -286,7 +321,8 @@
             "Largest": "Oklahoma City",
             "Statehood": "Nov 16, 1907",
             "Population": "3,930,864",
-            "Total_Area": "69,899"
+            "Total_Area": "69,899",
+            "AppFriendlyName": "oklahoma"
         }, {
             "Name": "Oregon",
             "State": "OR",
@@ -294,7 +330,8 @@
             "Largest": "Portland",
             "Statehood": "Feb 14, 1859",
             "Population": "4,142,776",
-            "Total_Area": "98,379"
+            "Total_Area": "98,379",
+            "AppFriendlyName": "oregon"
         }, {
             "Name": "Pennsylvania",
             "State": "PA",
@@ -302,15 +339,17 @@
             "Largest": "Philadelphia",
             "Statehood": "Dec 12, 1787",
             "Population": "12,805,537",
-            "Total_Area": "46,054"
+            "Total_Area": "46,054",
+            "AppFriendlyName": "pennsylvania"
         }, {
-            "Name": "Rhode Island[F]",
+            "Name": "Rhode Island",
             "State": "RI",
             "Capital": "Providence",
             "Largest": "Providence",
             "Statehood": "May 29, 1790",
             "Population": "1,059,639",
-            "Total_Area": "1,545"
+            "Total_Area": "1,545",
+            "AppFriendlyName": "rhode-island"
         }, {
             "Name": "South Carolina",
             "State": "SC",
@@ -318,7 +357,8 @@
             "Largest": "Charleston",
             "Statehood": "May 23, 1788",
             "Population": "5,024,369",
-            "Total_Area": "32,020"
+            "Total_Area": "32,020",
+            "AppFriendlyName": "south-carolina"
         }, {
             "Name": "South Dakota",
             "State": "SD",
@@ -326,7 +366,8 @@
             "Largest": "Sioux Falls",
             "Statehood": "Nov 2, 1889",
             "Population": "869,666",
-            "Total_Area": "77,116"
+            "Total_Area": "77,116",
+            "AppFriendlyName": "south-dakota"
         }, {
             "Name": "Tennessee",
             "State": "TN",
@@ -334,7 +375,8 @@
             "Largest": "Nashville",
             "Statehood": "Jun 1, 1796",
             "Population": "6,715,984",
-            "Total_Area": "42,144"
+            "Total_Area": "42,144",
+            "AppFriendlyName": "tennessee"
         }, {
             "Name": "Texas",
             "State": "TX",
@@ -342,7 +384,8 @@
             "Largest": "Houston",
             "Statehood": "Dec 29, 1845",
             "Population": "28,304,596",
-            "Total_Area": "268,596"
+            "Total_Area": "268,596",
+            "AppFriendlyName": "texas"
         }, {
             "Name": "Utah",
             "State": "UT",
@@ -350,7 +393,8 @@
             "Largest": "Salt Lake City",
             "Statehood": "Jan 4, 1896",
             "Population": "3,101,833",
-            "Total_Area": "84,897"
+            "Total_Area": "84,897",
+            "AppFriendlyName": "utah"
         }, {
             "Name": "Vermont",
             "State": "VT",
@@ -358,7 +402,8 @@
             "Largest": "Burlington",
             "Statehood": "Mar 4, 1791",
             "Population": "623,657",
-            "Total_Area": "9,616"
+            "Total_Area": "9,616",
+            "AppFriendlyName": "vermont"
         }, {
             "Name": "Virginia",
             "State": "VA",
@@ -366,7 +411,8 @@
             "Largest": "Virginia Beach",
             "Statehood": "Jun 25, 1788",
             "Population": "8,470,020",
-            "Total_Area": "42,775"
+            "Total_Area": "42,775",
+            "AppFriendlyName": "virginia"
         }, {
             "Name": "Washington",
             "State": "WA",
@@ -374,7 +420,8 @@
             "Largest": "Seattle",
             "Statehood": "Nov 11, 1889",
             "Population": "7,405,743",
-            "Total_Area": "71,298"
+            "Total_Area": "71,298",
+            "AppFriendlyName": "washington"
         }, {
             "Name": "West Virginia",
             "State": "WV",
@@ -382,7 +429,8 @@
             "Largest": "Charleston",
             "Statehood": "Jun 20, 1863",
             "Population": "1,815,857",
-            "Total_Area": "24,230"
+            "Total_Area": "24,230",
+            "AppFriendlyName": "west-virginia"
         }, {
             "Name": "Wisconsin",
             "State": "WI",
@@ -390,7 +438,8 @@
             "Largest": "Milwaukee",
             "Statehood": "May 29, 1848",
             "Population": "5,795,483",
-            "Total_Area": "65,496"
+            "Total_Area": "65,496",
+            "AppFriendlyName": "wisconsin"
         }, {
             "Name": "Wyoming",
             "State": "WY",
@@ -398,6 +447,7 @@
             "Largest": "Cheyenne",
             "Statehood": "Jul 10, 1890",
             "Population": "579,315",
-            "Total_Area": "97,813"
+            "Total_Area": "97,813",
+            "AppFriendlyName": "wyoming"
      }]
 }
