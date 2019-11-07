@@ -1,5 +1,3 @@
-{
-  "states": [
     {
       "Name": "Alabama",
       "State": "AL",
@@ -612,5 +610,4 @@
       "Motto": "Equal Rights",
       "Nickname": ""
     }
-  ]
-}
+
