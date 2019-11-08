@@ -1,4 +1,5 @@
-{
+[
+      {
       "Name": "Alabama",
       "State": "AL",
       "Capital": "Montgomery",
@@ -611,3 +612,4 @@
       "Nickname": ""
     }
 
+]
