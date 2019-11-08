@@ -103,7 +103,7 @@
       "Statehood": "Aug 3, 1871",
       "Population": "702,445",
       "Total_Area": "61.05",
-      "AppFriendlyName": "dc",
+      "AppFriendlyName": "district_of_columbia",
       "Motto": "Justitia Omnibus",
       "Nickname": ""
     },
@@ -355,7 +355,7 @@
       "Statehood": "Jun 21, 1788",
       "Population": "1,342,795",
       "Total_Area": "9,349",
-      "AppFriendlyName": "new-hampshire",
+      "AppFriendlyName": "new_hampshire",
       "Motto": "Live Free or Die",
       "Nickname": ""
     },
@@ -367,7 +367,7 @@
       "Statehood": "Dec 18, 1787",
       "Population": "9,005,644",
       "Total_Area": "8,723",
-      "AppFriendlyName": "new-jersey",
+      "AppFriendlyName": "new_jersey",
       "Motto": "Liberty and Prosperity",
       "Nickname": ""
     },
@@ -379,7 +379,7 @@
       "Statehood": "Jan 6, 1912",
       "Population": "2,088,070",
       "Total_Area": "121,590",
-      "AppFriendlyName": "new-mexico",
+      "AppFriendlyName": "new_mexico",
       "Motto": "Crescit eundo",
       "Nickname": ""
     },
@@ -391,7 +391,7 @@
       "Statehood": "Jul 26, 1788",
       "Population": "19,849,399",
       "Total_Area": "54,555",
-      "AppFriendlyName": "new-york",
+      "AppFriendlyName": "new_york",
       "Motto": "Excelsior",
       "Nickname": ""
     },
@@ -403,7 +403,7 @@
       "Statehood": "Nov 21, 1789",
       "Population": "10,273,419",
       "Total_Area": "53,819",
-      "AppFriendlyName": "north-carolina",
+      "AppFriendlyName": "north_carolina",
       "Motto": "Esse quam videri",
       "Nickname": ""
     },
@@ -415,7 +415,7 @@
       "Statehood": "Nov 2, 1889",
       "Population": "755,393",
       "Total_Area": "70,698",
-      "AppFriendlyName": "north-dakota",
+      "AppFriendlyName": "north_dakota",
       "Motto": "Liberty and union, now and forever, one and inseparable",
       "Nickname": ""
     },
@@ -475,7 +475,7 @@
       "Statehood": "May 29, 1790",
       "Population": "1,059,639",
       "Total_Area": "1,545",
-      "AppFriendlyName": "rhode-island",
+      "AppFriendlyName": "rhode_island",
       "Motto": "Hope",
       "Nickname": ""
     },
@@ -487,7 +487,7 @@
       "Statehood": "May 23, 1788",
       "Population": "5,024,369",
       "Total_Area": "32,020",
-      "AppFriendlyName": "south-carolina",
+      "AppFriendlyName": "south_carolina",
       "Motto": "Dum spiro, spero",
       "Nickname": ""
     },
@@ -499,7 +499,7 @@
       "Statehood": "Nov 2, 1889",
       "Population": "869,666",
       "Total_Area": "77,116",
-      "AppFriendlyName": "south-dakota",
+      "AppFriendlyName": "south_dakota",
       "Motto": "Under God the people rule",
       "Nickname": ""
     },
@@ -583,7 +583,7 @@
       "Statehood": "Jun 20, 1863",
       "Population": "1,815,857",
       "Total_Area": "24,230",
-      "AppFriendlyName": "west-virginia",
+      "AppFriendlyName": "west_virginia",
       "Motto": "Montani semper liberi",
       "Nickname": ""
     },
