@@ -10,7 +10,7 @@
       "AppFriendlyName": "alabama",
       "Motto": "Audemus jura nostra defendere",
       "Nickname": "",
-      "Flag": "https://commons.wikimedia.org/wiki/File:Flag_of_Alabama.svg#/media/File:Flag_of_Alabama.svg"
+      "Flag": "Flag_of_Alabama.svg"
     },
     {
       "Name": "Alaska",
@@ -23,7 +23,7 @@
       "AppFriendlyName": "alaska",
       "Motto": "North to the future",
       "Nickname": "",
-      "Flag": "https://commons.wikimedia.org/wiki/File:Flag_of_Alaska.svg#/media/File:Flag_of_Alaska.svg"
+      "Flag": "Flag_of_Alaska.svg"
     },
     {
       "Name": "Arizona",
@@ -35,7 +35,8 @@
       "Total_Area": "113,990",
       "AppFriendlyName": "arizona",
       "Motto": "Ditat Deus",
-      "Nickname": ""
+      "Nickname": "",
+      "Flag": "Flag_of_Arizona.svg"
     },
     {
       "Name": "Arkansas",
@@ -47,7 +48,8 @@
       "Total_Area": "53,179",
       "AppFriendlyName": "arkansas",
       "Motto": "Regnat populus",
-      "Nickname": ""
+      "Nickname": "",
+          "Flag": "Flag_of_Arkansas.svg"
     },
     {
       "Name": "California",
@@ -59,7 +61,8 @@
       "Total_Area": "163,695",
       "AppFriendlyName": "california",
       "Motto": "Eureka",
-      "Nickname": ""
+      "Nickname": "",
+          "Flag": "Flag_of_California.svg"
     },
     {
       "Name": "Colorado",
