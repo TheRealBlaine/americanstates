@@ -10,7 +10,7 @@
       "AppFriendlyName": "alabama",
       "Motto": "Audemus jura nostra defendere",
       "Nickname": "",
-      "Flag": "Flag_of_Alabama.svg"
+      "Flag": "Flag_of_Alabama"
     },
     {
       "Name": "Alaska",
@@ -23,7 +23,7 @@
       "AppFriendlyName": "alaska",
       "Motto": "North to the future",
       "Nickname": "",
-      "Flag": "Flag_of_Alaska.svg"
+      "Flag": "Flag_of_Alaska"
     },
     {
       "Name": "Arizona",
@@ -36,7 +36,7 @@
       "AppFriendlyName": "arizona",
       "Motto": "Ditat Deus",
       "Nickname": "",
-      "Flag": "Flag_of_Arizona.svg"
+      "Flag": "Flag_of_Arizona"
     },
     {
       "Name": "Arkansas",
@@ -49,7 +49,7 @@
       "AppFriendlyName": "arkansas",
       "Motto": "Regnat populus",
       "Nickname": "",
-          "Flag": "Flag_of_Arkansas.svg"
+          "Flag": "Flag_of_Arkansas"
     },
     {
       "Name": "California",
@@ -62,7 +62,7 @@
       "AppFriendlyName": "california",
       "Motto": "Eureka",
       "Nickname": "",
-          "Flag": "Flag_of_California.svg"
+          "Flag": "Flag_of_California"
     },
     {
       "Name": "Colorado",
